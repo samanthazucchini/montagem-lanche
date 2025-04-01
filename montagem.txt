@@ -1,10 +1,11 @@
-1º versão do lanche:
+Colocando os ingredientes na ordem certa: 
 
-Pão (parte de baixo)
-Molho especial
-Dois hambúrgueres
-Queijo
-Picles
-Alface
-Cebola
-Pão com gergelim (parte de cima)
+1. Pão com gergelim (parte de baixo)
+2. Hambúrguer
+3. Hambúrguer
+4. Alface
+5. Queijo
+6. Molho especial
+7. Cebola
+8. Picles
+9. Pão com gergelim (parte de cima)
